@@ -37,7 +37,7 @@ export default async function Page({
 
   return (
     <div className="space-y-4">
-      <div className="bg-neutral-800">
+      <div className="">
         <div className="max-w-7xl mx-auto">
           <ProfileHeader profile={profile} />
         </div>
